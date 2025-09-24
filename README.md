@@ -2,9 +2,6 @@ Desafio: nível mestre
 Implementando Comparações Avançadas com Atributos Múltiplos em C
 
 
-Este é o desafio final do Super Trunfo! Coloque em prática tudo o que você aprendeu e mostre suas habilidades de programação!
-
-
 O que você vai fazer
 
 
